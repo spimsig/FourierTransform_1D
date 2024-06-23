@@ -11,8 +11,6 @@
 from matplotlib import pyplot as plt
 import numpy as np
 
-%import warnings
-%warnings.simplefilter("ignore")
 
 def main():
     # %%  Basic signal generation
